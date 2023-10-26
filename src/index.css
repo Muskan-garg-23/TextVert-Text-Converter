@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.preview{
+  font-size:xx-large;
+  font-weight: 1000;
+  color:#5C4B99;
+}
+
+.heading{
+  font-size: 50px;
+  background: -webkit-linear-gradient(#829eb0, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo{
+  font-size: x-large;
+  font-weight :900;
+  background: -webkit-linear-gradient(#080505, #aeabab);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
